@@ -1,4 +1,4 @@
-package com.qingtao.linkTable;
+package com.qingtao.suanfa.LinkPrictice;
 
 public class Linklist {
     class Node {

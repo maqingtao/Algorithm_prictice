@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a6596de-19e5-4bc8-9cde-b7a2af9355e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/haoweilai/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/haoweilai/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/haoweilai/P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/leetCode/P15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/leetCode/P16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/leetCode/P31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/leetCode/P64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/tuyayidong/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/qingtao/tuyayidong/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qingtao/aiqiyi/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/IsPalindromel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/LinkReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/qingtao/suanfa/Trees/Trees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Personal/com/qingtao/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Personal/com/qingtao/leetCode/P31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Personal/com/qingtao/leetCode/P31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Personal/com/qingtao/linkTable/Linklist$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Personal/com/qingtao/linkTable/Linklist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qingtao/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qingtao/linkTable/Linklist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +23,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P31.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P31.java">
+      <file leaf-file-name="Trees.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/Trees/Trees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P64.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P64.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="113">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#1177#1185#0" expanded="true" />
+                <element signature="e#1245#1253#0" expanded="true" />
+                <element signature="e#1313#1321#0" expanded="true" />
+                <element signature="e#1381#1389#0" expanded="true" />
+                <element signature="e#1449#1457#0" expanded="true" />
+                <element signature="e#1517#1525#0" expanded="true" />
+                <element signature="e#1582#1590#0" expanded="true" />
+                <element signature="e#1647#1655#0" expanded="true" />
+                <element signature="e#1709#1717#0" expanded="true" />
+                <element signature="e#1771#1779#0" expanded="true" />
+                <element signature="e#1833#1841#0" expanded="true" />
+                <element signature="e#2461#2479#0" expanded="true" />
+                <element signature="e#3460#3478#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,6 +71,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\maqingtao\Desktop\Suanfa\src\com\qingtao\aiqiyi</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +91,6 @@
         <option value="$PROJECT_DIR$/src/com/qingtao/leetCode/P3.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/leetCode/P5.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/leetCode/P6.java" />
-        <option value="$PROJECT_DIR$/src/com/qingtao/Main.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/qihu360.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/qihu360/P1.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/qihu360/P2.java" />
@@ -78,6 +104,17 @@
         <option value="$PROJECT_DIR$/src/com/qingtao/leetCode/P16.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/leetCode/P31.java" />
         <option value="$PROJECT_DIR$/src/com/qingtao/leetCode/P64.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkReverse.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/suanfa/IsPalintpmel.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/IsPalintpmel.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/IsPalindromel.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/T1.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/aiqiyi/P1.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/aiqiyi/P2.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/aiqiyi/P3.java" />
+        <option value="$PROJECT_DIR$/src/com/qingtao/suanfa/Trees/Trees.java" />
       </list>
     </option>
   </component>
@@ -87,13 +124,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="1" />
+    <option name="y" value="-2" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -101,45 +145,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+              <item name="Suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Suanfa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+              <item name="Suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Suanfa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="qingtao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+              <item name="Suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Suanfa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="qingtao" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Suanfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Suanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="qingtao" type="462c0819:PsiDirectoryNode" />
+              <item name="suanfa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java算法" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,71 +200,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P31">
-    <configuration name="P1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qingtao.tuyayidong.P1" />
+  <component name="RunManager" selected="Application.Trees">
+    <configuration name="LinkReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingtao.suanfa.LinkPrictice.LinkReverse" />
       <module name="Personal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qingtao.tuyayidong.*" />
+          <option name="PATTERN" value="com.qingtao.suanfa.LinkPrictice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qingtao.leetCode.P15" />
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingtao.aiqiyi.P1" />
       <module name="Personal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qingtao.leetCode.*" />
+          <option name="PATTERN" value="com.qingtao.aiqiyi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qingtao.leetCode.P16" />
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingtao.aiqiyi.P2" />
       <module name="Personal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qingtao.leetCode.*" />
+          <option name="PATTERN" value="com.qingtao.aiqiyi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qingtao.tuyayidong.P2" />
+    <configuration name="P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingtao.aiqiyi.P3" />
       <module name="Personal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qingtao.tuyayidong.*" />
+          <option name="PATTERN" value="com.qingtao.aiqiyi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="P31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qingtao.leetCode.P31" />
+    <configuration name="Trees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingtao.suanfa.Trees.Trees" />
       <module name="Personal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qingtao.leetCode.*" />
+          <option name="PATTERN" value="com.qingtao.suanfa.Trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.P1 (2)" />
-      <item itemvalue="Application.P2 (2)" />
-      <item itemvalue="Application.P15" />
-      <item itemvalue="Application.P16" />
-      <item itemvalue="Application.P31" />
+      <item itemvalue="Application.LinkReverse" />
+      <item itemvalue="Application.P1" />
+      <item itemvalue="Application.Trees" />
+      <item itemvalue="Application.P2" />
+      <item itemvalue="Application.P3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P31" />
-        <item itemvalue="Application.P16" />
-        <item itemvalue="Application.P15" />
-        <item itemvalue="Application.P2 (2)" />
-        <item itemvalue="Application.P1 (2)" />
+        <item itemvalue="Application.Trees" />
+        <item itemvalue="Application.P3" />
+        <item itemvalue="Application.P2" />
+        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.LinkReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +300,19 @@
       <workItem from="1535617820608" duration="10672000" />
       <workItem from="1535677412103" duration="149000" />
       <workItem from="1535680906559" duration="5120000" />
+      <workItem from="1536401610667" duration="601000" />
+      <workItem from="1536467407467" duration="259000" />
+      <workItem from="1536469617703" duration="221000" />
+      <workItem from="1537015601976" duration="161000" />
+      <workItem from="1537575898232" duration="10138000" />
+      <workItem from="1537850884789" duration="2100000" />
+      <workItem from="1537855960062" duration="2809000" />
+      <workItem from="1537921214078" duration="1257000" />
+      <workItem from="1538031309198" duration="2106000" />
+      <workItem from="1538095314020" duration="5815000" />
+      <workItem from="1538110609797" duration="6968000" />
+      <workItem from="1538187012401" duration="4994000" />
+      <workItem from="1538198662892" duration="1882000" />
     </task>
     <servers />
   </component>
@@ -262,41 +322,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77405000" />
+    <option name="totallyTimeSpent" value="116495000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3267974" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3252818" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.3120915" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.09313726" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23027375" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.20261438" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.44444445" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
@@ -328,24 +387,6 @@
           <line>17</line>
           <properties />
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/qingtao/Main.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/qingtao/Main.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/qingtao/Main.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/qingtao/haoweilai/P1.java</url>
@@ -407,67 +448,27 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/LinkReverse.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/qingtao/aiqiyi/P3.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="49" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/qihu360/P3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="22" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="22" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -517,14 +518,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/linkTable/Linklist.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -555,42 +550,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/linkTable/Linklist.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/linkTable/Linklist.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/linkTable/Linklist.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
@@ -598,20 +575,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qingtao/qihu360.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/linkTable/Linklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Personal.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -660,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qingtao/zijietiaodong/P1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -681,20 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="21" column="26" selection-start-line="16" selection-start-column="2" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -726,16 +668,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P16.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="137">
+          <caret line="246" column="51" lean-forward="true" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
+        <state relative-caret-position="-399">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -743,31 +709,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/DualPivotQuicksort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+        <state relative-caret-position="254">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P31.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="-371">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qingtao/leetCode/P64.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="104">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/T1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/aiqiyi/P1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/aiqiyi/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/aiqiyi/P3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/IsPalindromel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/Linklist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/LinkPrictice/LinkReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qingtao/suanfa/Trees/Trees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#1177#1185#0" expanded="true" />
+            <element signature="e#1245#1253#0" expanded="true" />
+            <element signature="e#1313#1321#0" expanded="true" />
+            <element signature="e#1381#1389#0" expanded="true" />
+            <element signature="e#1449#1457#0" expanded="true" />
+            <element signature="e#1517#1525#0" expanded="true" />
+            <element signature="e#1582#1590#0" expanded="true" />
+            <element signature="e#1647#1655#0" expanded="true" />
+            <element signature="e#1709#1717#0" expanded="true" />
+            <element signature="e#1771#1779#0" expanded="true" />
+            <element signature="e#1833#1841#0" expanded="true" />
+            <element signature="e#2461#2479#0" expanded="true" />
+            <element signature="e#3460#3478#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
